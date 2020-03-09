@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  9 18:58:26 2020
-
-@author: uvx
-"""
 import pygame
 import random
 
